@@ -37,5 +37,6 @@ After this, m is updated after every iteration, and we notice that loss and slop
 
 **Credits**
 
-- [Chris McCormik](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 - Andrew Ng
+- [Chris McCormik](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
+- And many others..
