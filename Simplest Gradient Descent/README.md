@@ -34,3 +34,8 @@ After this, m is updated after every iteration, and we notice that loss and slop
 - dm = derivative of loss with respect to m (dL/dm), or how does loss change with respect to m
 - lr = learning rate
 - df = dataframe
+
+**Credits**
+
+- [Chris McCormik](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
+- Andrew Ng
