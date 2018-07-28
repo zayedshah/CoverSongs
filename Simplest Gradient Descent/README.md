@@ -4,6 +4,8 @@ Gradient Descent is the backbone of Machine Learning, Deep Learning and Artifici
 
 This is my attempt at reproducing the most simple gradient descent exercise.
 
+This is to be read is conjunction with the notebook *Simplest Gradient Descent.ipynb*
+
 I have a range of number of between 1 and 10 - this is x. And y - which is double of of the numbers in x.
 
 The relationship between them is y = 2 * x. This is an equation of a straight line y = mx + b where m is the slope and b is the intercept. For the sake of simplicity, I have taken out any intercept so b = 0.
