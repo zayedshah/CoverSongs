@@ -23,3 +23,14 @@ In the next iteration, m has been updated to 1.698215 - notice that it has moved
 With m at 1.69, loss has dropped dramatically to just around 3.5, and corresponding the slope of the quadratic relationship would have reduced, and begin to flatten. The slope is now at -23. Lesser the number of this slope, less steeper is the slope. Compare this to previous slope at -101, which was suggesting that it was quite steep slope. Imagine climbing a steep mountain.
 
 After this, m is updated after every iteration, and we notice that loss and slope decreases, until at the 10th iteration, m is around 1.99 (very close to 2, which is our target m), loss has gone down to something like 0.0000000002 (in the beginning, the loss was around 66), and slope is -0.000182, which is very close to 0. Slope at 0 means that the line drawn at the tangent to the curve is flat.
+
+**Appendix**
+
+- yP - yPred, or predicted value of y, starting with random value of m
+- e - error
+- se - square of errors
+- n - number of examples, here 10
+- mse - mean of sum of errors squared
+- dm = derivative of loss with respect to m (dL/dm), or how does loss change with respect to m
+- lr = learning rate
+- df = dataframe
